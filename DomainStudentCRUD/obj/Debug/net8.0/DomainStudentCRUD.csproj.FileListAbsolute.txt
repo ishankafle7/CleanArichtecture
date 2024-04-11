@@ -1,0 +1,12 @@
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\bin\Debug\net8.0\DomainStudentCRUD.deps.json
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\bin\Debug\net8.0\DomainStudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\bin\Debug\net8.0\DomainStudentCRUD.pdb
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.AssemblyInfo.cs
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\refint\DomainStudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.pdb
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\ref\DomainStudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.deps.json
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.pdb
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\bin\Debug\net8.0\DomainStudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\bin\Debug\net8.0\DomainStudentCRUD.pdb
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.AssemblyInfo.cs
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Applicat.C3DFB928.Up2Date
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\refint\Application.StudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.pdb
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\ref\Application.StudentCRUD.dll

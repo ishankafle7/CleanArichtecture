@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD191F7-AF00-482B-96DA-907AFD2BEA72}|Domain.StudentCRUD\\Application.StudentCRUD\\Application.StudentCRUD.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\domain.studentcrud\\application.studentcrud\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD191F7-AF00-482B-96DA-907AFD2BEA72}|Domain.StudentCRUD\\Application.StudentCRUD\\Application.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\application.studentcrud\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C730F4-176E-41BD-9E40-054D938E922D}|Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\infrastructure.studenttask\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C730F4-176E-41BD-9E40-054D938E922D}|Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj|solutionrelative:infrastructure.studenttask\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C730F4-176E-41BD-9E40-054D938E922D}|Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\infrastructure.studenttask\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C730F4-176E-41BD-9E40-054D938E922D}|Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj|solutionrelative:infrastructure.studenttask\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045AFAC-D68E-4A23-A975-2E89ED632D9F}|PresentationStudent.CRUD\\PresentationStudent.CRUD.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\presentationstudent.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045AFAC-D68E-4A23-A975-2E89ED632D9F}|PresentationStudent.CRUD\\PresentationStudent.CRUD.csproj|solutionrelative:presentationstudent.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1045AFAC-D68E-4A23-A975-2E89ED632D9F}|PresentationStudent.CRUD\\PresentationStudent.CRUD.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\presentationstudent.crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1045AFAC-D68E-4A23-A975-2E89ED632D9F}|PresentationStudent.CRUD\\PresentationStudent.CRUD.csproj|solutionrelative:presentationstudent.crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFFBF88-3373-44EF-9238-5574A592D74E}|DomainStudentCRUD\\DomainStudentCRUD.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\domainstudentcrud\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFFBF88-3373-44EF-9238-5574A592D74E}|DomainStudentCRUD\\DomainStudentCRUD.csproj|solutionrelative:domainstudentcrud\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFFBF88-3373-44EF-9238-5574A592D74E}|DomainStudentCRUD\\DomainStudentCRUD.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\domainstudentcrud\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFFBF88-3373-44EF-9238-5574A592D74E}|DomainStudentCRUD\\DomainStudentCRUD.csproj|solutionrelative:domainstudentcrud\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C730F4-176E-41BD-9E40-054D938E922D}|Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\infrastructure.studenttask\\infrastructure.studenttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13C730F4-176E-41BD-9E40-054D938E922D}|Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj|solutionrelative:infrastructure.studenttask\\infrastructure.studenttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFFBF88-3373-44EF-9238-5574A592D74E}|DomainStudentCRUD\\DomainStudentCRUD.csproj|c:\\users\\ishan kafle you\\source\\repos\\cleanarichtecture\\domainstudentcrud\\domainstudentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FFFBF88-3373-44EF-9238-5574A592D74E}|DomainStudentCRUD\\DomainStudentCRUD.csproj|solutionrelative:domainstudentcrud\\domainstudentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Domain.StudentCRUD\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain.StudentCRUD\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\ApplicationDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfrastructureStudentCRUD\\ApplicationDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Presentation.StudentCRUD\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation.StudentCRUD\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\DomainStudentCRUD\\AppUser.cs",
+              "RelativeDocumentMoniker": "DomainStudentCRUD\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\DomainStudentCRUD\\AppUser.cs",
+              "RelativeToolTip": "DomainStudentCRUD\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:37:50.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Infrastructure.StudentTask\\StudentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure.StudentTask\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Infrastructure.StudentTask\\StudentService.cs",
+              "RelativeToolTip": "Infrastructure.StudentTask\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:04:30.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Infrastructure.StudentTask\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.StudentTask\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Infrastructure.StudentTask\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Infrastructure.StudentTask\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:44:46.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Domain.StudentCRUD\\Application.StudentCRUD\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\Application.StudentCRUD\\IStudentServices.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Domain.StudentCRUD\\Application.StudentCRUD\\IStudentServices.cs",
+              "RelativeToolTip": "Domain.StudentCRUD\\Application.StudentCRUD\\IStudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:05:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\PresentationStudent.CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationStudent.CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\PresentationStudent.CRUD\\Program.cs",
+              "RelativeToolTip": "PresentationStudent.CRUD\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:40:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\PresentationStudent.CRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "PresentationStudent.CRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\PresentationStudent.CRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "PresentationStudent.CRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:40:54.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\DomainStudentCRUD\\StudentModel.cs",
+              "RelativeDocumentMoniker": "DomainStudentCRUD\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\DomainStudentCRUD\\StudentModel.cs",
+              "RelativeToolTip": "DomainStudentCRUD\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:06:55.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infrastructure.StudentTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj",
+              "RelativeToolTip": "Infrastructure.StudentTask\\Infrastructure.StudentTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T03:14:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DomainStudentCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\DomainStudentCRUD\\DomainStudentCRUD.csproj",
+              "RelativeDocumentMoniker": "DomainStudentCRUD\\DomainStudentCRUD.csproj",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\DomainStudentCRUD\\DomainStudentCRUD.csproj",
+              "RelativeToolTip": "DomainStudentCRUD\\DomainStudentCRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T03:28:11.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Presentation.StudentCRUD\\Class1.cs",
+              "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Presentation.StudentCRUD\\Class1.cs",
+              "RelativeToolTip": "Presentation.StudentCRUD\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:50:34.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfrastructureStudentCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "RelativeDocumentMoniker": "InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "RelativeToolTip": "InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T03:40:11.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfrastructureStudentCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "RelativeDocumentMoniker": "InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "RelativeToolTip": "InfrastructureStudentCRUD\\InfrastructureStudentCRUD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T03:40:14.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Domain.StudentCRUD\\Student.cs",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\Student.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\Domain.StudentCRUD\\Student.cs",
+              "RelativeToolTip": "Domain.StudentCRUD\\Student.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:27:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureStudentCRUD\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\InfrastructureStudentCRUD\\ApplicationDBContext.cs",
+              "RelativeToolTip": "InfrastructureStudentCRUD\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:26:53.228Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

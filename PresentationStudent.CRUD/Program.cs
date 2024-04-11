@@ -3,6 +3,7 @@ using DomainStudentCRUD;
 using Infrastructure.StudentTask;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.InteropServices;
 
 var builder = WebApplication.CreateBuilder(args);
 /*builder.Services.AddDbContext<ApplicationDBContext>();
@@ -21,10 +22,23 @@ builder.Services.AddAuthentication().AddBearerToken(IdentityConstants.BearerSche
 builder.Services.AddAuthorizationBuilder();
 
 builder.Services.AddDbContext<ApplicationDBContext>();
-builder.Services.AddIdentityCore<AppUser>()
-	.AddEntityFrameworkStores<ApplicationDBContext>().AddApiEndpoints();
+builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDBContext>().AddApiEndpoints().AddEntityFrameworkStores<ApplicationDBContext>().AddApiEndpoints();
 
 var app = builder.Build();
+
+// Seed role user based 
+using(var scope=app.Services.CreateScope())
+{
+	var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+	string[] roles = { "Admin", "User" };
+	foreach(var role in roles)
+	{
+		if(!await roleManager.RoleExistsAsync(role))
+		{
+			await roleManager.CreateAsync(new IdentityRole(role));
+		}
+	}
+}
 app.MapIdentityApi<AppUser>();
 
 // Configure the HTTP request pipeline.

@@ -17,3 +17,4 @@ C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Infrastructure.StudentTa
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Infrastructure.StudentTask\obj\Debug\net8.0\Infrastructure.StudentTask.pdb
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Infrastructure.StudentTask\obj\Debug\net8.0\Infrastructure.StudentTask.genruntimeconfig.cache
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Infrastructure.StudentTask\obj\Debug\net8.0\ref\Infrastructure.StudentTask.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Infrastructure.StudentTask\obj\Debug\net8.0\Infrastructure.StudentTask.sourcelink.json

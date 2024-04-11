@@ -13,3 +13,4 @@ C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Appli
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\refint\Application.StudentCRUD.dll
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.pdb
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\ref\Application.StudentCRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\Domain.StudentCRUD\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.sourcelink.json

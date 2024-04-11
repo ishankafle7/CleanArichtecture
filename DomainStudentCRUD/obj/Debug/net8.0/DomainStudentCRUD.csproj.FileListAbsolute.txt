@@ -10,3 +10,4 @@ C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\De
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.pdb
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\ref\DomainStudentCRUD.dll
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.csproj.AssemblyReference.cache
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\DomainStudentCRUD\obj\Debug\net8.0\DomainStudentCRUD.sourcelink.json

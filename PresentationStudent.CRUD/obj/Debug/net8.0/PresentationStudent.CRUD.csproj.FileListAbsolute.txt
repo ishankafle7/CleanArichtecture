@@ -89,3 +89,4 @@ C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\PresentationStudent.CRUD
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\PresentationStudent.CRUD\obj\Debug\net8.0\PresentationStudent.CRUD.pdb
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\PresentationStudent.CRUD\obj\Debug\net8.0\PresentationStudent.CRUD.genruntimeconfig.cache
 C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\PresentationStudent.CRUD\obj\Debug\net8.0\ref\PresentationStudent.CRUD.dll
+C:\Users\Ishan Kafle You\source\repos\CleanArichtecture\PresentationStudent.CRUD\obj\Debug\net8.0\PresentationStudent.CRUD.sourcelink.json

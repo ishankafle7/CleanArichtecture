@@ -84,14 +84,10 @@
               "RelativeDocumentMoniker": "PresentationStudent.CRUD\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Ishan Kafle You\\source\\repos\\CleanArichtecture\\PresentationStudent.CRUD\\Controllers\\AccountController.cs",
               "RelativeToolTip": "PresentationStudent.CRUD\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAALAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T06:08:28.357Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -103,8 +99,7 @@
               "RelativeToolTip": "DomainStudentCRUD\\RegisterViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T05:56:06.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T05:56:06.542Z"
             },
             {
               "$type": "Document",
@@ -116,8 +111,7 @@
               "RelativeToolTip": "PresentationStudent.CRUD\\Program.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAD4vxoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T03:40:28.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T03:40:28.467Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Domain.StudentCRUD\\Application.StudentCRUD\\IStudentServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T04:05:32.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T04:05:32.763Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "DomainStudentCRUD\\DomainStudentCRUD.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-09T03:28:11.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T03:28:11.053Z"
             },
             {
               "$type": "Document",
@@ -273,6 +265,10 @@
               "ViewState": "AQIAAAQAAAAAAAAAAAApwAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T03:26:53.228Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
